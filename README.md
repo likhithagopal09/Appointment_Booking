@@ -152,12 +152,6 @@ git push origin feature/your-feature-name
     <li><a href="https://reactrouter.com/">React Router</a></li>
   </ul>
 
-  <h2>📞 Contact</h2>
-  <p><strong>Rakesh Miriyala</strong><br>
-  GitHub: <a href="https://github.com/rakeshmiriyala">@rakeshmiriyala</a><br>
-  LinkedIn: <a href="#">LinkedIn Profile</a><br>
-  Email: rakeshmiriyala@example.com</p>
-
   <h2>🔗 Project Link</h2>
   <p><a href="https://github.com/rakeshmiriyala/BookMyAppointments-frontend">
     https://github.com/rakeshmiriyala/BookMyAppointments-frontend</a></p>

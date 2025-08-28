@@ -2,7 +2,7 @@
   "name": "yeah",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://likhithagopal09.github.io/Appointment_Booking",
+  "homepage": "https://likhithagopal09.github.io/Appointment_Booking/",
   "type": "module",
   "scripts": {
     "start": "vite",
